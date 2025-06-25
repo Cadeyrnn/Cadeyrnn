@@ -28,6 +28,7 @@ Balancing professional sport and a young family while also studying has definite
 ## 🔭 What's Next?
 
 - Working through the Github Student Developer Pack to get solid basics
+- Learning throuugh [CS50 projects](https://github.com/code50/159509190.git)
 - Build and ship small projects
 - Dive deeper into web development (probably React and Node.js)
 - Learn backend and DevOps fundamentals
