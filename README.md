@@ -4,7 +4,7 @@ I'm a professional rugby union player for the ACT Brumbies and have represented 
 
 ## 🧠 My Developer Journey
 
-I got started with programming through Harvard's [CS50x](https://cs50.harvard.edu/x), which sparked my interest in building and problem-solving with code. Since then, I've completed **CS50P** (Python) and I'm currently working through **CS50AI**, learning about algorithms, search, machine learning and more.
+I got started with programming through Harvard's [CS50x](https://cs50.harvard.edu/x), which sparked my interest in building and problem-solving with code. Since then, I've completed **CS50P** (Python) and **CS50AI**, and am now working through CS50W. I am now familiar with most of the content but I place a high value on knowing the basics so going over it again through CS50's delivery seems worthwhile.
 
 ## 💻 Current Focus
 
@@ -12,7 +12,7 @@ I got started with programming through Harvard's [CS50x](https://cs50.harvard.ed
 - Exploring **AI concepts** and how they apply to real-world problems
 - Beginning to learn **JavaScript** and frameworks
 - Working through [TryHackMe](https://tryhackme.com) modules for cybersecurity skills
-- Studying construction management at University of Newcastle
+- Studying Bachelor of Construction Management at University of Newcastle
 
 ## 🛠️ Tools & Languages
 
